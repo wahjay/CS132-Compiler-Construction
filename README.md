@@ -13,3 +13,6 @@ The compiler is broke down into five parts, and thus five total homeworks.
 | HW3     | Logic Checker |
 | HW4    | Vapor to VaporM |
 | HW5    | VaporM to MIPS  |
+
+
+[Syllabus Link](http://web.cs.ucla.edu/~palsberg/course/cs132/F12/)
